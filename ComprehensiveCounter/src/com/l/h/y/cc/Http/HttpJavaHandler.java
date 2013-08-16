@@ -8,8 +8,6 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLEncoder;
 
-import org.apache.http.HttpStatus;
-
 import com.l.h.y.cc.Contances.TextUtils;
 
 
