@@ -20,3 +20,9 @@ public class CMCC extends HeartBeanAbstrace {
 	}
 
 }
+
+
+/***
+ * 2013-11-19 通过
+ * 
+ * */

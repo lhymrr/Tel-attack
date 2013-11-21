@@ -25,3 +25,9 @@ public class CNTV extends HeartBeanAbstrace {
 	}
 
 }
+
+
+/**
+ * 2013-11-19 通过
+ * 有IP检测，大概发送10次后ip锁定，锁定24小时
+ * */
